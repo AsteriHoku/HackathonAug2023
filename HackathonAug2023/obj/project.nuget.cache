@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "gCfBg0PPuMgjsa3sbH4joyyi9TuZcs22f2q8izv7Tix8dnLa2WQUdqIzLYrLPtz3LYFIm4JG/5VzeixIeQzOCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sarah.matta\\RiderProjects\\HackathonAug2023\\HackathonAug2023\\HackathonAug2023.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sarah.matta\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.9\\microsoft.netcore.platforms.3.1.9.nupkg.sha512",
+    "C:\\Users\\sarah.matta\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\sarah.matta\\.nuget\\packages\\skiasharp\\2.88.4-preview.89\\skiasharp.2.88.4-preview.89.nupkg.sha512",
+    "C:\\Users\\sarah.matta\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.4-preview.89\\skiasharp.nativeassets.macos.2.88.4-preview.89.nupkg.sha512",
+    "C:\\Users\\sarah.matta\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.4-preview.89\\skiasharp.nativeassets.win32.2.88.4-preview.89.nupkg.sha512",
+    "C:\\Users\\sarah.matta\\.nuget\\packages\\skiasharp.views.desktop.common\\2.88.4-preview.89\\skiasharp.views.desktop.common.2.88.4-preview.89.nupkg.sha512",
+    "C:\\Users\\sarah.matta\\.nuget\\packages\\system.drawing.common\\4.7.3\\system.drawing.common.4.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}
